@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import CrimeMap from './CrimeMap';
 
 function App() {
+  const [mode, setMode] = useState("recent");
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Cornell Crime Map</h1>
+      <button onClick={() => setMode("recent")}>Recent Crimes (Last 60 Days)</button>
+      <button onClick={() => setMode("all")}>All Crimes (Legacy Mode)</button>
+      <CrimeMap dataUrl={`/crimes/${mode}.json`} />
     </div>
   );
 }
