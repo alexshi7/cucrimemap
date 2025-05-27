@@ -1,0 +1,2197 @@
+{
+    "A-Lot Staff Parking": {
+        "name": "A-Lot Staff Parking",
+        "lat": 42.4584,
+        "lng": -76.4767
+    },
+    "A. D. White Gardens": {
+        "name": "A. D. White Gardens",
+        "lat": 42.4478,
+        "lng": -76.4819
+    },
+    "A. D. White House": {
+        "name": "A. D. White House",
+        "lat": 42.4483,
+        "lng": -76.482
+    },
+    "AAP Downtown Facility": {
+        "name": "AAP Downtown Facility",
+        "lat": 42.443,
+        "lng": -76.5102
+    },
+    "AAP New York City Center": {
+        "name": "AAP New York City Center",
+        "lat": 40.7387,
+        "lng": -73.9946
+    },
+    "Acacia": {
+        "name": "Acacia",
+        "lat": 42.4587,
+        "lng": -76.4873
+    },
+    "Academic Surge Facility A": {
+        "name": "Academic Surge Facility A",
+        "lat": 42.4483,
+        "lng": -76.4783
+    },
+    "Academic Surge Facility B": {
+        "name": "Academic Surge Facility B",
+        "lat": 42.4481,
+        "lng": -76.4783
+    },
+    "Africana Studies and Research Center": {
+        "name": "Africana Studies and Research Center",
+        "lat": 42.4574,
+        "lng": -76.4823
+    },
+    "Agriculture Waste Management Laboratory": {
+        "name": "Agriculture Waste Management Laboratory",
+        "lat": 42.4443,
+        "lng": -76.4523
+    },
+    "Alpha Chi Omega": {
+        "name": "Alpha Chi Omega",
+        "lat": 42.454,
+        "lng": -76.4897
+    },
+    "Alpha Delta Phi": {
+        "name": "Alpha Delta Phi",
+        "lat": 42.4508,
+        "lng": -76.4898
+    },
+    "Alpha Epsilon Phi": {
+        "name": "Alpha Epsilon Phi",
+        "lat": 42.4566,
+        "lng": -76.4854
+    },
+    "Alpha Epsilon Pi": {
+        "name": "Alpha Epsilon Pi",
+        "lat": 42.4542,
+        "lng": -76.4883
+    },
+    "Alpha Gamma Rho": {
+        "name": "Alpha Gamma Rho",
+        "lat": 42.4557,
+        "lng": -76.4852
+    },
+    "Alpha Phi": {
+        "name": "Alpha Phi",
+        "lat": 42.4533,
+        "lng": -76.4839
+    },
+    "Alpha Sigma Phi": {
+        "name": "Alpha Sigma Phi",
+        "lat": 42.4521,
+        "lng": -76.4907
+    },
+    "Alpha Xi Delta": {
+        "name": "Alpha Xi Delta",
+        "lat": 42.4554,
+        "lng": -76.4897
+    },
+    "Alpha Zeta": {
+        "name": "Alpha Zeta",
+        "lat": 42.4541,
+        "lng": -76.4872
+    },
+    "Alumni Affairs and Development, Ithaca": {
+        "name": "Alumni Affairs and Development, Ithaca",
+        "lat": 42.4406,
+        "lng": -76.4976
+    },
+    "Alumni Affairs and Development, NYC": {
+        "name": "Alumni Affairs and Development, NYC",
+        "lat": 40.7458,
+        "lng": -73.9821
+    },
+    "Alumni House": {
+        "name": "Alumni House",
+        "lat": 42.4518,
+        "lng": -76.4809
+    },
+    "American Indian Program House": {
+        "name": "American Indian Program House",
+        "lat": 42.4561,
+        "lng": -76.4804
+    },
+    "Anabel Taylor Hall": {
+        "name": "Anabel Taylor Hall",
+        "lat": 42.4449,
+        "lng": -76.4856
+    },
+    "Animal Science Teaching and Research Barns": {
+        "name": "Animal Science Teaching and Research Barns",
+        "lat": 42.445,
+        "lng": -76.4672
+    },
+    "Anna Comstock House": {
+        "name": "Anna Comstock House",
+        "lat": 42.4539,
+        "lng": -76.4823
+    },
+    "Appel Basketball Courts": {
+        "name": "Appel Basketball Courts",
+        "lat": 42.4564,
+        "lng": -76.4745
+    },
+    "Aquaculture Building": {
+        "name": "Aquaculture Building",
+        "lat": 42.4419,
+        "lng": -76.468
+    },
+    "Arnot Teaching and Research Forest": {
+        "name": "Arnot Teaching and Research Forest",
+        "lat": 42.263,
+        "lng": -76.6269
+    },
+    "Arthropod Research Facility": {
+        "name": "Arthropod Research Facility",
+        "lat": 42.4443,
+        "lng": -76.4518
+    },
+    "Atkinson Hall": {
+        "name": "Atkinson Hall",
+        "lat": 42.448,
+        "lng": -76.4732
+    },
+    "B-Lot Staff Parking": {
+        "name": "B-Lot Staff Parking",
+        "lat": 42.4463,
+        "lng": -76.4635
+    },
+    "B-Lot Visitor Parking": {
+        "name": "B-Lot Visitor Parking",
+        "lat": 42.4457,
+        "lng": -76.4648
+    },
+    "Bailey Hall": {
+        "name": "Bailey Hall",
+        "lat": 42.4492,
+        "lng": -76.4801
+    },
+    "Baker Institute for Animal Health": {
+        "name": "Baker Institute for Animal Health",
+        "lat": 42.428,
+        "lng": -76.454
+    },
+    "Baker Laboratory": {
+        "name": "Baker Laboratory",
+        "lat": 42.4502,
+        "lng": -76.4818
+    },
+    "Baker North": {
+        "name": "Baker North",
+        "lat": 42.4487,
+        "lng": -76.4887
+    },
+    "Baker South": {
+        "name": "Baker South",
+        "lat": 42.4485,
+        "lng": -76.4884
+    },
+    "Baker Tower": {
+        "name": "Baker Tower",
+        "lat": 42.4489,
+        "lng": -76.4882
+    },
+    "Balch Hall": {
+        "name": "Balch Hall",
+        "lat": 42.453,
+        "lng": -76.4797
+    },
+    "Barbara McClintock Hall": {
+        "name": "Barbara McClintock Hall",
+        "lat": 42.4539,
+        "lng": -76.4745
+    },
+    "Bard Hall": {
+        "name": "Bard Hall",
+        "lat": 42.4439,
+        "lng": -76.484
+    },
+    "Barnes Hall": {
+        "name": "Barnes Hall",
+        "lat": 42.4464,
+        "lng": -76.4843
+    },
+    "Bartels Hall": {
+        "name": "Bartels Hall",
+        "lat": 42.4458,
+        "lng": -76.4762
+    },
+    "Barton Hall": {
+        "name": "Barton Hall",
+        "lat": 42.446,
+        "lng": -76.4807
+    },
+    "Barton Hall (AgriTech)": {
+        "name": "Barton Hall (AgriTech)",
+        "lat": 42.8679,
+        "lng": -76.9819
+    },
+    "Barton Laboratory": {
+        "name": "Barton Laboratory",
+        "lat": 42.8753,
+        "lng": -77.0057
+    },
+    "Bauer Hall": {
+        "name": "Bauer Hall",
+        "lat": 42.4536,
+        "lng": -76.4785
+    },
+    "Beebe Hall": {
+        "name": "Beebe Hall",
+        "lat": 42.4489,
+        "lng": -76.4743
+    },
+    "Belkin Squash Courts": {
+        "name": "Belkin Squash Courts",
+        "lat": 42.435,
+        "lng": -76.4656
+    },
+    "Beta Theta Pi": {
+        "name": "Beta Theta Pi",
+        "lat": 42.4559,
+        "lng": -76.4899
+    },
+    "Big Red Barn": {
+        "name": "Big Red Barn",
+        "lat": 42.4485,
+        "lng": -76.481
+    },
+    "Bill and Melinda Gates Hall": {
+        "name": "Bill and Melinda Gates Hall",
+        "lat": 42.445,
+        "lng": -76.4808
+    },
+    "Biotechnology Building": {
+        "name": "Biotechnology Building",
+        "lat": 42.4464,
+        "lng": -76.4784
+    },
+    "Blair Farm Complex": {
+        "name": "Blair Farm Complex",
+        "lat": 42.443,
+        "lng": -76.4688
+    },
+    "Blauvelt Laboratory": {
+        "name": "Blauvelt Laboratory",
+        "lat": 42.4487,
+        "lng": -76.4698
+    },
+    "Boldt Hall": {
+        "name": "Boldt Hall",
+        "lat": 42.449,
+        "lng": -76.4887
+    },
+    "Boldt Tower": {
+        "name": "Boldt Tower",
+        "lat": 42.449,
+        "lng": -76.4891
+    },
+    "Botanic Gardens": {
+        "name": "Botanic Gardens",
+        "lat": 42.4494,
+        "lng": -76.4719
+    },
+    "Botanic Gardens Parking": {
+        "name": "Botanic Gardens Parking",
+        "lat": 42.4493,
+        "lng": -76.4718
+    },
+    "Botanic Gardens Ramin Administrative Center": {
+        "name": "Botanic Gardens Ramin Administrative Center",
+        "lat": 42.453,
+        "lng": -76.4719
+    },
+    "Bowers College of Computing and Information Science Building": {
+        "name": "Bowers College of Computing and Information Science Building",
+        "lat": 42.4442,
+        "lng": -76.4807
+    },
+    "Boyce Thompson Institute": {
+        "name": "Boyce Thompson Institute",
+        "lat": 42.447,
+        "lng": -76.4676
+    },
+    "Bradfield Hall": {
+        "name": "Bradfield Hall",
+        "lat": 42.4479,
+        "lng": -76.4758
+    },
+    "Breazzano Family Center for Business Education": {
+        "name": "Breazzano Family Center for Business Education",
+        "lat": 42.4416,
+        "lng": -76.4845
+    },
+    "Bruckner Laboratory": {
+        "name": "Bruckner Laboratory",
+        "lat": 42.4483,
+        "lng": -76.4741
+    },
+    "Business and Technology Park": {
+        "name": "Business and Technology Park",
+        "lat": 42.4854,
+        "lng": -76.4613
+    },
+    "Buttermilk Falls State Park": {
+        "name": "Buttermilk Falls State Park",
+        "lat": 42.417,
+        "lng": -76.5216
+    },
+    "Caldwell Hall": {
+        "name": "Caldwell Hall",
+        "lat": 42.4492,
+        "lng": -76.4783
+    },
+    "Campus Warehouse (AgriTech)": {
+        "name": "Campus Warehouse (AgriTech)",
+        "lat": 42.875,
+        "lng": -77.0094
+    },
+    "Carl Becker House": {
+        "name": "Carl Becker House",
+        "lat": 42.4482,
+        "lng": -76.4896
+    },
+    "Carpenter Hall": {
+        "name": "Carpenter Hall",
+        "lat": 42.4448,
+        "lng": -76.4842
+    },
+    "Cascadilla Hall": {
+        "name": "Cascadilla Hall",
+        "lat": 42.4424,
+        "lng": -76.4868
+    },
+    "Cayuga Medical Center": {
+        "name": "Cayuga Medical Center",
+        "lat": 42.4692,
+        "lng": -76.5375
+    },
+    "Cayuga Nature Center": {
+        "name": "Cayuga Nature Center",
+        "lat": 42.519,
+        "lng": -76.5546
+    },
+    "Center for Jewish Living": {
+        "name": "Center for Jewish Living",
+        "lat": 42.4444,
+        "lng": -76.4879
+    },
+    "Central Heating Plant": {
+        "name": "Central Heating Plant",
+        "lat": 42.4429,
+        "lng": -76.4747
+    },
+    "Charles H. Dyson School of Applied Economics and Management": {
+        "name": "Charles H. Dyson School of Applied Economics and Management",
+        "lat": 42.4492,
+        "lng": -76.4771
+    },
+    "Chesterton House": {
+        "name": "Chesterton House",
+        "lat": 42.4537,
+        "lng": -76.4901
+    },
+    "Chi Phi": {
+        "name": "Chi Phi",
+        "lat": 42.4437,
+        "lng": -76.4888
+    },
+    "Chi Psi": {
+        "name": "Chi Psi",
+        "lat": 42.4509,
+        "lng": -76.4881
+    },
+    "Chilled Water Plant": {
+        "name": "Chilled Water Plant",
+        "lat": 42.4513,
+        "lng": -76.4793
+    },
+    "Clara Dickson Hall": {
+        "name": "Clara Dickson Hall",
+        "lat": 42.4542,
+        "lng": -76.4791
+    },
+    "Clark Hall": {
+        "name": "Clark Hall",
+        "lat": 42.4498,
+        "lng": -76.4811
+    },
+    "Collyer Boat House": {
+        "name": "Collyer Boat House",
+        "lat": 42.4469,
+        "lng": -76.5112
+    },
+    "Companion Animal Hospital": {
+        "name": "Companion Animal Hospital",
+        "lat": 42.4469,
+        "lng": -76.4646
+    },
+    "Computing and Communications Center (CCC)": {
+        "name": "Computing and Communications Center (CCC)",
+        "lat": 42.4493,
+        "lng": -76.479
+    },
+    "Comstock Hall": {
+        "name": "Comstock Hall",
+        "lat": 42.4466,
+        "lng": -76.4793
+    },
+    "Convenient Care at Ithaca": {
+        "name": "Convenient Care at Ithaca",
+        "lat": 42.4798,
+        "lng": -76.4644
+    },
+    "Cook House": {
+        "name": "Cook House",
+        "lat": 42.4488,
+        "lng": -76.4896
+    },
+    "Cornell AgriTech": {
+        "name": "Cornell AgriTech",
+        "lat": 42.8771,
+        "lng": -77.0077
+    },
+    "Cornell Botanic Gardens Brian C. Nevin Welcome Center": {
+        "name": "Cornell Botanic Gardens Brian C. Nevin Welcome Center",
+        "lat": 42.4496,
+        "lng": -76.4723
+    },
+    "Cornell Child Care Center": {
+        "name": "Cornell Child Care Center",
+        "lat": 42.4593,
+        "lng": -76.4759
+    },
+    "Cornell Club of New York City": {
+        "name": "Cornell Club of New York City",
+        "lat": 40.7544,
+        "lng": -73.9793
+    },
+    "Cornell Health": {
+        "name": "Cornell Health",
+        "lat": 42.4458,
+        "lng": -76.4856
+    },
+    "Cornell Orchards": {
+        "name": "Cornell Orchards",
+        "lat": 42.4449,
+        "lng": -76.4623
+    },
+    "Corson Hall": {
+        "name": "Corson Hall",
+        "lat": 42.4473,
+        "lng": -76.4783
+    },
+    "Court Residence Hall": {
+        "name": "Court Residence Hall",
+        "lat": 42.4545,
+        "lng": -76.478
+    },
+    "Dairy Bar": {
+        "name": "Dairy Bar",
+        "lat": 42.447,
+        "lng": -76.4702
+    },
+    "Dairy Barn (AgriTech)": {
+        "name": "Dairy Barn (AgriTech)",
+        "lat": 42.8762,
+        "lng": -77.0082
+    },
+    "Day Hall": {
+        "name": "Day Hall",
+        "lat": 42.447,
+        "lng": -76.4833
+    },
+    "DeFrees Laboratory": {
+        "name": "DeFrees Laboratory",
+        "lat": 42.4447,
+        "lng": -76.4848
+    },
+    "Dean's Garden": {
+        "name": "Dean's Garden",
+        "lat": 42.4496,
+        "lng": -76.4773
+    },
+    "Delta Chi": {
+        "name": "Delta Chi",
+        "lat": 42.4538,
+        "lng": -76.4883
+    },
+    "Delta Delta Delta": {
+        "name": "Delta Delta Delta",
+        "lat": 42.4554,
+        "lng": -76.4814
+    },
+    "Delta Gamma": {
+        "name": "Delta Gamma",
+        "lat": 42.4555,
+        "lng": -76.4805
+    },
+    "Delta Kappa Epsilon": {
+        "name": "Delta Kappa Epsilon",
+        "lat": 42.4446,
+        "lng": -76.4871
+    },
+    "Delta Phi": {
+        "name": "Delta Phi",
+        "lat": 42.4466,
+        "lng": -76.492
+    },
+    "Delta Tau Delta": {
+        "name": "Delta Tau Delta",
+        "lat": 42.4454,
+        "lng": -76.4887
+    },
+    "Delta Upsilon": {
+        "name": "Delta Upsilon",
+        "lat": 42.4451,
+        "lng": -76.4872
+    },
+    "Dilmun Hill Student Organic Farm": {
+        "name": "Dilmun Hill Student Organic Farm",
+        "lat": 42.4432,
+        "lng": -76.4692
+    },
+    "Dimock Environmental Control Laboratory": {
+        "name": "Dimock Environmental Control Laboratory",
+        "lat": 42.4485,
+        "lng": -76.4683
+    },
+    "Dolgen Hall": {
+        "name": "Dolgen Hall",
+        "lat": 42.4473,
+        "lng": -76.4801
+    },
+    "Downtown Ithaca": {
+        "name": "Downtown Ithaca",
+        "lat": 42.4404,
+        "lng": -76.4969
+    },
+    "Duffield Hall": {
+        "name": "Duffield Hall",
+        "lat": 42.4447,
+        "lng": -76.4826
+    },
+    "Dyce Laboratory": {
+        "name": "Dyce Laboratory",
+        "lat": 42.465,
+        "lng": -76.4452
+    },
+    "East Campus Research Facility": {
+        "name": "East Campus Research Facility",
+        "lat": 42.4468,
+        "lng": -76.4659
+    },
+    "East Campus Service Center": {
+        "name": "East Campus Service Center",
+        "lat": 42.4453,
+        "lng": -76.4562
+    },
+    "East Hill Office Building": {
+        "name": "East Hill Office Building",
+        "lat": 42.4392,
+        "lng": -76.4632
+    },
+    "East Hill Plaza": {
+        "name": "East Hill Plaza",
+        "lat": 42.4378,
+        "lng": -76.4642
+    },
+    "Ecology and Toxicology Fish Hatchery": {
+        "name": "Ecology and Toxicology Fish Hatchery",
+        "lat": 42.4416,
+        "lng": -76.4665
+    },
+    "Eddy Gate": {
+        "name": "Eddy Gate",
+        "lat": 42.4424,
+        "lng": -76.4875
+    },
+    "Emerson Hall": {
+        "name": "Emerson Hall",
+        "lat": 42.4484,
+        "lng": -76.4758
+    },
+    "Environmental Health & Safety": {
+        "name": "Environmental Health & Safety",
+        "lat": 42.4464,
+        "lng": -76.4598
+    },
+    "Equine Drug Sports Medicine Facility": {
+        "name": "Equine Drug Sports Medicine Facility",
+        "lat": 42.5005,
+        "lng": -76.4665
+    },
+    "Equine Metabolism Unit": {
+        "name": "Equine Metabolism Unit",
+        "lat": 42.4445,
+        "lng": -76.4675
+    },
+    "Equine Park": {
+        "name": "Equine Park",
+        "lat": 42.4615,
+        "lng": -76.458
+    },
+    "Equine and Farm Animal Hospitals": {
+        "name": "Equine and Farm Animal Hospitals",
+        "lat": 42.4474,
+        "lng": -76.4635
+    },
+    "Facilities Services Recycling Center": {
+        "name": "Facilities Services Recycling Center",
+        "lat": 42.4434,
+        "lng": -76.456
+    },
+    "Faculty Tennis Club": {
+        "name": "Faculty Tennis Club",
+        "lat": 42.4428,
+        "lng": -76.4797
+    },
+    "Fall Creek Studios": {
+        "name": "Fall Creek Studios",
+        "lat": 42.4534,
+        "lng": -76.4976
+    },
+    "Farm Service Shop": {
+        "name": "Farm Service Shop",
+        "lat": 42.4464,
+        "lng": -76.4584
+    },
+    "Federal Nutrition Lab": {
+        "name": "Federal Nutrition Lab",
+        "lat": 42.4477,
+        "lng": -76.4672
+    },
+    "Fernow Hall": {
+        "name": "Fernow Hall",
+        "lat": 42.4484,
+        "lng": -76.4751
+    },
+    "Fischell Band Center": {
+        "name": "Fischell Band Center",
+        "lat": 42.4438,
+        "lng": -76.4772
+    },
+    "Flora Rose House": {
+        "name": "Flora Rose House",
+        "lat": 42.4478,
+        "lng": -76.4889
+    },
+    "Floriculture Greenhouses": {
+        "name": "Floriculture Greenhouses",
+        "lat": 42.4488,
+        "lng": -76.4693
+    },
+    "Food Research Lab (AgriTech)": {
+        "name": "Food Research Lab (AgriTech)",
+        "lat": 42.8774,
+        "lng": -77.0093
+    },
+    "Food Science Laboratory": {
+        "name": "Food Science Laboratory",
+        "lat": 42.4471,
+        "lng": -76.4704
+    },
+    "Forest Home Dr. Parking Garage": {
+        "name": "Forest Home Dr. Parking Garage",
+        "lat": 42.4509,
+        "lng": -76.479
+    },
+    "Founders Hall": {
+        "name": "Founders Hall",
+        "lat": 42.4484,
+        "lng": -76.488
+    },
+    "Foundry": {
+        "name": "Foundry",
+        "lat": 42.4515,
+        "lng": -76.4835
+    },
+    "Foundry Kiln Shed": {
+        "name": "Foundry Kiln Shed",
+        "lat": 42.4516,
+        "lng": -76.4837
+    },
+    "Friedman Strength and Conditioning Center": {
+        "name": "Friedman Strength and Conditioning Center",
+        "lat": 42.4455,
+        "lng": -76.4758
+    },
+    "Friedman Wrestling Center": {
+        "name": "Friedman Wrestling Center",
+        "lat": 42.4456,
+        "lng": -76.4745
+    },
+    "Friends Hall": {
+        "name": "Friends Hall",
+        "lat": 42.445,
+        "lng": -76.4783
+    },
+    "Fuertes Observatory": {
+        "name": "Fuertes Observatory",
+        "lat": 42.4528,
+        "lng": -76.4745
+    },
+    "Ganedago: Hall": {
+        "name": "Ganedago: Hall",
+        "lat": 42.4563,
+        "lng": -76.4791
+    },
+    "General Services Building (AgriTech)": {
+        "name": "General Services Building (AgriTech)",
+        "lat": 42.8755,
+        "lng": -77.0099
+    },
+    "Goldwin Smith Hall": {
+        "name": "Goldwin Smith Hall",
+        "lat": 42.4491,
+        "lng": -76.4835
+    },
+    "Graphic Arts Services Building": {
+        "name": "Graphic Arts Services Building",
+        "lat": 42.4434,
+        "lng": -76.4712
+    },
+    "Grossman Pond": {
+        "name": "Grossman Pond",
+        "lat": 42.4521,
+        "lng": -76.4544
+    },
+    "Grounds Operations Facility": {
+        "name": "Grounds Operations Facility",
+        "lat": 42.4459,
+        "lng": -76.4573
+    },
+    "Grumman Hall": {
+        "name": "Grumman Hall",
+        "lat": 42.4434,
+        "lng": -76.4821
+    },
+    "Grumman Squash Courts": {
+        "name": "Grumman Squash Courts",
+        "lat": 42.445,
+        "lng": -76.4799
+    },
+    "Guterman Bioclimatic Laboratory": {
+        "name": "Guterman Bioclimatic Laboratory",
+        "lat": 42.4475,
+        "lng": -76.4605
+    },
+    "Hanger Theatre": {
+        "name": "Hanger Theatre",
+        "lat": 42.4551,
+        "lng": -76.5172
+    },
+    "Hans Bethe House": {
+        "name": "Hans Bethe House",
+        "lat": 42.4471,
+        "lng": -76.4886
+    },
+    "Harford Animal Science Teaching and Research Center": {
+        "name": "Harford Animal Science Teaching and Research Center",
+        "lat": 42.4415,
+        "lng": -76.2482
+    },
+    "Hartung-Boothroyd Observatory": {
+        "name": "Hartung-Boothroyd Observatory",
+        "lat": 42.4582,
+        "lng": -76.3846
+    },
+    "Hasbrouck Apartments": {
+        "name": "Hasbrouck Apartments",
+        "lat": 42.4563,
+        "lng": -76.4719
+    },
+    "Hasbrouck Community Center": {
+        "name": "Hasbrouck Community Center",
+        "lat": 42.4563,
+        "lng": -76.4719
+    },
+    "Heating Plant (AgriTech)": {
+        "name": "Heating Plant (AgriTech)",
+        "lat": 42.8762,
+        "lng": -77.0082
+    },
+    "Hedrick Hall": {
+        "name": "Hedrick Hall",
+        "lat": 42.8768,
+        "lng": -77.0074
+    },
+    "Hedrick Hall (AgriTech)": {
+        "name": "Hedrick Hall (AgriTech)",
+        "lat": 42.8772,
+        "lng": -77.0078
+    },
+    "Helen Newman Hall": {
+        "name": "Helen Newman Hall",
+        "lat": 42.453,
+        "lng": -76.4774
+    },
+    "High Voltage Laboratory": {
+        "name": "High Voltage Laboratory",
+        "lat": 42.4374,
+        "lng": -76.4724
+    },
+    "Ho Plaza": {
+        "name": "Ho Plaza",
+        "lat": 42.4467,
+        "lng": -76.4851
+    },
+    "Hoffman Challenge Course Pavilion": {
+        "name": "Hoffman Challenge Course Pavilion",
+        "lat": 42.461,
+        "lng": -76.386
+    },
+    "Holland International Living Center": {
+        "name": "Holland International Living Center",
+        "lat": 42.4556,
+        "lng": -76.4761
+    },
+    "Hollister Hall": {
+        "name": "Hollister Hall",
+        "lat": 42.444,
+        "lng": -76.4845
+    },
+    "Horticulture Greenhouse Range (AgriTech)": {
+        "name": "Horticulture Greenhouse Range (AgriTech)",
+        "lat": 42.875,
+        "lng": -77.0094
+    },
+    "Horton Lab": {
+        "name": "Horton Lab",
+        "lat": 42.4487,
+        "lng": -76.4688
+    },
+    "Houston Pond": {
+        "name": "Houston Pond",
+        "lat": 42.4511,
+        "lng": -76.4546
+    },
+    "Hoy Rd. Parking Garage": {
+        "name": "Hoy Rd. Parking Garage",
+        "lat": 42.444,
+        "lng": -76.4796
+    },
+    "Hu Shih Hall": {
+        "name": "Hu Shih Hall",
+        "lat": 42.4553,
+        "lng": -76.4749
+    },
+    "Hughes Hall": {
+        "name": "Hughes Hall",
+        "lat": 42.4437,
+        "lng": -76.4863
+    },
+    "Human Ecology Building": {
+        "name": "Human Ecology Building",
+        "lat": 42.4505,
+        "lng": -76.4786
+    },
+    "Humphreys Service Building": {
+        "name": "Humphreys Service Building",
+        "lat": 42.4427,
+        "lng": -76.4755
+    },
+    "Hurlburt House": {
+        "name": "Hurlburt House",
+        "lat": 42.4579,
+        "lng": -76.4839
+    },
+    "I Barn": {
+        "name": "I Barn",
+        "lat": 42.4478,
+        "lng": -76.4642
+    },
+    "ILR Conference Center": {
+        "name": "ILR Conference Center",
+        "lat": 42.447,
+        "lng": -76.4801
+    },
+    "ILR NYC Headquarters": {
+        "name": "ILR NYC Headquarters",
+        "lat": 40.7572,
+        "lng": -73.9726
+    },
+    "Imogene Powers Johnson Center for Birds and Biodiversity": {
+        "name": "Imogene Powers Johnson Center for Birds and Biodiversity",
+        "lat": 42.4799,
+        "lng": -76.4511
+    },
+    "Industrial & Labor Relations Research": {
+        "name": "Industrial & Labor Relations Research",
+        "lat": 42.4466,
+        "lng": -76.4801
+    },
+    "Insectary Complex": {
+        "name": "Insectary Complex",
+        "lat": 42.4489,
+        "lng": -76.4699
+    },
+    "Integrated Pest Management (IPM) (AgriTech)": {
+        "name": "Integrated Pest Management (IPM) (AgriTech)",
+        "lat": 42.877,
+        "lng": -77.0066
+    },
+    "Ithaca Bus Terminal": {
+        "name": "Ithaca Bus Terminal",
+        "lat": 42.4395,
+        "lng": -76.511
+    },
+    "Ithaca Campus": {
+        "name": "Ithaca Campus",
+        "lat": 42.447,
+        "lng": -76.48
+    },
+    "Ithaca College": {
+        "name": "Ithaca College",
+        "lat": 42.4219,
+        "lng": -76.495
+    },
+    "Ithaca Commons": {
+        "name": "Ithaca Commons",
+        "lat": 42.4396,
+        "lng": -76.4968
+    },
+    "Ithaca Farmers' Market": {
+        "name": "Ithaca Farmers' Market",
+        "lat": 42.451,
+        "lng": -76.5093
+    },
+    "Ithaca High School": {
+        "name": "Ithaca High School",
+        "lat": 42.4551,
+        "lng": -76.4987
+    },
+    "Ithaca Police Department": {
+        "name": "Ithaca Police Department",
+        "lat": 42.437,
+        "lng": -76.4976
+    },
+    "Ithaca Sciencenter": {
+        "name": "Ithaca Sciencenter",
+        "lat": 42.4498,
+        "lng": -76.5045
+    },
+    "Ithaca Tompkins Regional Airport": {
+        "name": "Ithaca Tompkins Regional Airport",
+        "lat": 42.4898,
+        "lng": -76.4623
+    },
+    "Ives Hall": {
+        "name": "Ives Hall",
+        "lat": 42.4472,
+        "lng": -76.481
+    },
+    "Ives Hall East": {
+        "name": "Ives Hall East",
+        "lat": 42.4469,
+        "lng": -76.4807
+    },
+    "Ives Hall West": {
+        "name": "Ives Hall West",
+        "lat": 42.447,
+        "lng": -76.4814
+    },
+    "J Barn": {
+        "name": "J Barn",
+        "lat": 42.448,
+        "lng": -76.4643
+    },
+    "JAM (Just About Music)": {
+        "name": "JAM (Just About Music)",
+        "lat": 42.4551,
+        "lng": -76.4761
+    },
+    "James Law Auditorium": {
+        "name": "James Law Auditorium",
+        "lat": 42.4479,
+        "lng": -76.4665
+    },
+    "Jameson Hall": {
+        "name": "Jameson Hall",
+        "lat": 42.4557,
+        "lng": -76.4782
+    },
+    "Japes Lodge": {
+        "name": "Japes Lodge",
+        "lat": 42.4524,
+        "lng": -76.4798
+    },
+    "Jennings Crabapple Collection": {
+        "name": "Jennings Crabapple Collection",
+        "lat": 42.453,
+        "lng": -76.4538
+    },
+    "Jessup Field": {
+        "name": "Jessup Field",
+        "lat": 42.4572,
+        "lng": -76.4806
+    },
+    "Johnson Museum of Art": {
+        "name": "Johnson Museum of Art",
+        "lat": 42.4507,
+        "lng": -76.4861
+    },
+    "Jordan Hall": {
+        "name": "Jordan Hall",
+        "lat": 42.8774,
+        "lng": -77.0072
+    },
+    "Jordan Hall (AgriTech)": {
+        "name": "Jordan Hall (AgriTech)",
+        "lat": 42.8772,
+        "lng": -77.0077
+    },
+    "Judith Eisner Pavilion": {
+        "name": "Judith Eisner Pavilion",
+        "lat": 42.4427,
+        "lng": -76.4854
+    },
+    "K Barn": {
+        "name": "K Barn",
+        "lat": 42.4481,
+        "lng": -76.4644
+    },
+    "Kahin Center": {
+        "name": "Kahin Center",
+        "lat": 42.448,
+        "lng": -76.4913
+    },
+    "Kappa Alpha Theta": {
+        "name": "Kappa Alpha Theta",
+        "lat": 42.4446,
+        "lng": -76.489
+    },
+    "Kappa Delta": {
+        "name": "Kappa Delta",
+        "lat": 42.4549,
+        "lng": -76.4805
+    },
+    "Kappa Delta Rho": {
+        "name": "Kappa Delta Rho",
+        "lat": 42.4579,
+        "lng": -76.487
+    },
+    "Kappa Kappa Gamma": {
+        "name": "Kappa Kappa Gamma",
+        "lat": 42.4539,
+        "lng": -76.4831
+    },
+    "Kappa Sigma": {
+        "name": "Kappa Sigma",
+        "lat": 42.4498,
+        "lng": -76.4914
+    },
+    "Kay Hall": {
+        "name": "Kay Hall",
+        "lat": 42.4541,
+        "lng": -76.478
+    },
+    "Keeton House": {
+        "name": "Keeton House",
+        "lat": 42.4467,
+        "lng": -76.4895
+    },
+    "Kennedy Hall": {
+        "name": "Kennedy Hall",
+        "lat": 42.4481,
+        "lng": -76.4793
+    },
+    "Kenneth Post Greenhouses": {
+        "name": "Kenneth Post Greenhouses",
+        "lat": 42.4479,
+        "lng": -76.4694
+    },
+    "Kimball Hall": {
+        "name": "Kimball Hall",
+        "lat": 42.4439,
+        "lng": -76.4832
+    },
+    "King-Shaw Hall": {
+        "name": "King-Shaw Hall",
+        "lat": 42.4469,
+        "lng": -76.4801
+    },
+    "Kinzelberg Hall": {
+        "name": "Kinzelberg Hall",
+        "lat": 42.45,
+        "lng": -76.4799
+    },
+    "Klarman Hall": {
+        "name": "Klarman Hall",
+        "lat": 42.4491,
+        "lng": -76.483
+    },
+    "Kroch Library": {
+        "name": "Kroch Library",
+        "lat": 42.448,
+        "lng": -76.4835
+    },
+    "L Barn": {
+        "name": "L Barn",
+        "lat": 42.4482,
+        "lng": -76.4645
+    },
+    "Lambda Chi Alpha": {
+        "name": "Lambda Chi Alpha",
+        "lat": 42.4438,
+        "lng": -76.4879
+    },
+    "Langmuir Lab": {
+        "name": "Langmuir Lab",
+        "lat": 42.4856,
+        "lng": -76.4586
+    },
+    "Large Animal Research Teaching Unit": {
+        "name": "Large Animal Research Teaching Unit",
+        "lat": 42.4463,
+        "lng": -76.4675
+    },
+    "Leland Laboratory": {
+        "name": "Leland Laboratory",
+        "lat": 42.4495,
+        "lng": -76.4626
+    },
+    "Liberty Hyde Bailey Conservatory": {
+        "name": "Liberty Hyde Bailey Conservatory",
+        "lat": 42.4479,
+        "lng": -76.4769
+    },
+    "Library Annex-Storage Facility": {
+        "name": "Library Annex-Storage Facility",
+        "lat": 42.4425,
+        "lng": -76.458
+    },
+    "Liddell Laboratory": {
+        "name": "Liddell Laboratory",
+        "lat": 42.4606,
+        "lng": -76.4443
+    },
+    "Lincoln Hall": {
+        "name": "Lincoln Hall",
+        "lat": 42.4501,
+        "lng": -76.4835
+    },
+    "Little Moose Field Station": {
+        "name": "Little Moose Field Station",
+        "lat": 43.6811,
+        "lng": -74.9407
+    },
+    "Livestock Pavilion": {
+        "name": "Livestock Pavilion",
+        "lat": 42.4466,
+        "lng": -76.4707
+    },
+    "Louie's Lunch Truck": {
+        "name": "Louie's Lunch Truck",
+        "lat": 42.4534,
+        "lng": -76.4813
+    },
+    "Lynah Rink": {
+        "name": "Lynah Rink",
+        "lat": 42.4457,
+        "lng": -76.4774
+    },
+    "Lyon Hall": {
+        "name": "Lyon Hall",
+        "lat": 42.4478,
+        "lng": -76.488
+    },
+    "M Barn": {
+        "name": "M Barn",
+        "lat": 42.4484,
+        "lng": -76.4645
+    },
+    "Machine Shop": {
+        "name": "Machine Shop",
+        "lat": 42.4432,
+        "lng": -76.4712
+    },
+    "Malott Hall": {
+        "name": "Malott Hall",
+        "lat": 42.4482,
+        "lng": -76.4802
+    },
+    "Mann Library": {
+        "name": "Mann Library",
+        "lat": 42.4488,
+        "lng": -76.4763
+    },
+    "Maplewood Park": {
+        "name": "Maplewood Park",
+        "lat": 42.4394,
+        "lng": -76.4727
+    },
+    "Maplewood Park Apartments Community Center": {
+        "name": "Maplewood Park Apartments Community Center",
+        "lat": 42.4411,
+        "lng": -76.474
+    },
+    "Martha Van Rensselaer East Building": {
+        "name": "Martha Van Rensselaer East Building",
+        "lat": 42.4501,
+        "lng": -76.478
+    },
+    "Martha Van Rensselaer Hall": {
+        "name": "Martha Van Rensselaer Hall",
+        "lat": 42.45,
+        "lng": -76.4787
+    },
+    "Martha Van Rensselaer West Building": {
+        "name": "Martha Van Rensselaer West Building",
+        "lat": 42.4502,
+        "lng": -76.4791
+    },
+    "Martin Y. Tang Welcome Center": {
+        "name": "Martin Y. Tang Welcome Center",
+        "lat": 42.4522,
+        "lng": -76.4804
+    },
+    "Mary Donlon Hall": {
+        "name": "Mary Donlon Hall",
+        "lat": 42.455,
+        "lng": -76.4777
+    },
+    "McFaddin Hall": {
+        "name": "McFaddin Hall",
+        "lat": 42.4472,
+        "lng": -76.488
+    },
+    "McGovern Fields": {
+        "name": "McGovern Fields",
+        "lat": 42.439,
+        "lng": -76.4508
+    },
+    "McGraw Hall": {
+        "name": "McGraw Hall",
+        "lat": 42.4494,
+        "lng": -76.4854
+    },
+    "McGraw Tower": {
+        "name": "McGraw Tower",
+        "lat": 42.4476,
+        "lng": -76.4851
+    },
+    "Mennen Hall": {
+        "name": "Mennen Hall",
+        "lat": 42.448,
+        "lng": -76.4881
+    },
+    "Merrill Family Sailing Center": {
+        "name": "Merrill Family Sailing Center",
+        "lat": 42.4702,
+        "lng": -76.5031
+    },
+    "Mews Hall": {
+        "name": "Mews Hall",
+        "lat": 42.4544,
+        "lng": -76.4769
+    },
+    "Micro-Kelvin Laboratory": {
+        "name": "Micro-Kelvin Laboratory",
+        "lat": 42.4492,
+        "lng": -76.4812
+    },
+    "Miller-Heller House": {
+        "name": "Miller-Heller House",
+        "lat": 42.439,
+        "lng": -76.4876
+    },
+    "Milstein Hall": {
+        "name": "Milstein Hall",
+        "lat": 42.4512,
+        "lng": -76.4836
+    },
+    "Moakley House Golf Course": {
+        "name": "Moakley House Golf Course",
+        "lat": 42.4582,
+        "lng": -76.4673
+    },
+    "Moore Laboratory": {
+        "name": "Moore Laboratory",
+        "lat": 42.448,
+        "lng": -76.4657
+    },
+    "Morrill Hall": {
+        "name": "Morrill Hall",
+        "lat": 42.4486,
+        "lng": -76.4853
+    },
+    "Morrison Hall": {
+        "name": "Morrison Hall",
+        "lat": 42.4463,
+        "lng": -76.4693
+    },
+    "Mower Storage (AgriTech)": {
+        "name": "Mower Storage (AgriTech)",
+        "lat": 42.8574,
+        "lng": -77.0349
+    },
+    "Muenscher Laboratory": {
+        "name": "Muenscher Laboratory",
+        "lat": 42.4497,
+        "lng": -76.4632
+    },
+    "Museum of the Earth": {
+        "name": "Museum of the Earth",
+        "lat": 42.4663,
+        "lng": -76.5364
+    },
+    "Myron Taylor Hall": {
+        "name": "Myron Taylor Hall",
+        "lat": 42.444,
+        "lng": -76.4856
+    },
+    "Myron Taylor Jane Foster Library Addition": {
+        "name": "Myron Taylor Jane Foster Library Addition",
+        "lat": 42.4437,
+        "lng": -76.4858
+    },
+    "Nematode Lab": {
+        "name": "Nematode Lab",
+        "lat": 42.4473,
+        "lng": -76.4685
+    },
+    "New York City": {
+        "name": "New York City",
+        "lat": 40.7059,
+        "lng": -73.8959
+    },
+    "New York State Veterinary Diagnostic Laboratory": {
+        "name": "New York State Veterinary Diagnostic Laboratory",
+        "lat": 42.4488,
+        "lng": -76.4643
+    },
+    "Newman Accelerator Building": {
+        "name": "Newman Accelerator Building",
+        "lat": 42.4505,
+        "lng": -76.4805
+    },
+    "Newman Arboretum": {
+        "name": "Newman Arboretum",
+        "lat": 42.4519,
+        "lng": -76.456
+    },
+    "Newman Lab": {
+        "name": "Newman Lab",
+        "lat": 42.4502,
+        "lng": -76.4804
+    },
+    "North Campus High Rise 5": {
+        "name": "North Campus High Rise 5",
+        "lat": 42.4562,
+        "lng": -76.4768
+    },
+    "North Campus Low Rise 6": {
+        "name": "North Campus Low Rise 6",
+        "lat": 42.4563,
+        "lng": -76.4761
+    },
+    "North Campus Low Rise 7": {
+        "name": "North Campus Low Rise 7",
+        "lat": 42.4562,
+        "lng": -76.4754
+    },
+    "North Campus Low Rise 9": {
+        "name": "North Campus Low Rise 9",
+        "lat": 42.4549,
+        "lng": -76.4761
+    },
+    "North Campus Student Center": {
+        "name": "North Campus Student Center",
+        "lat": 42.4573,
+        "lng": -76.4769
+    },
+    "North Campus Townhouse A": {
+        "name": "North Campus Townhouse A",
+        "lat": 42.457,
+        "lng": -76.4779
+    },
+    "North Campus Townhouse B": {
+        "name": "North Campus Townhouse B",
+        "lat": 42.4571,
+        "lng": -76.4773
+    },
+    "North Campus Townhouse C": {
+        "name": "North Campus Townhouse C",
+        "lat": 42.457,
+        "lng": -76.4767
+    },
+    "North Campus Townhouse D": {
+        "name": "North Campus Townhouse D",
+        "lat": 42.4572,
+        "lng": -76.4763
+    },
+    "North Campus Townhouse E": {
+        "name": "North Campus Townhouse E",
+        "lat": 42.457,
+        "lng": -76.476
+    },
+    "North Campus Townhouse F": {
+        "name": "North Campus Townhouse F",
+        "lat": 42.4572,
+        "lng": -76.4757
+    },
+    "North Campus Townhouse G": {
+        "name": "North Campus Townhouse G",
+        "lat": 42.457,
+        "lng": -76.4753
+    },
+    "North Campus Townhouse H": {
+        "name": "North Campus Townhouse H",
+        "lat": 42.4573,
+        "lng": -76.4749
+    },
+    "Noyes Community and Recreation Center": {
+        "name": "Noyes Community and Recreation Center",
+        "lat": 42.4465,
+        "lng": -76.488
+    },
+    "Noyes Lodge": {
+        "name": "Noyes Lodge",
+        "lat": 42.4522,
+        "lng": -76.4801
+    },
+    "Nursery Cellars (AgriTech)": {
+        "name": "Nursery Cellars (AgriTech)",
+        "lat": 42.8574,
+        "lng": -77.0349
+    },
+    "Oak Avenue": {
+        "name": "Oak Avenue",
+        "lat": 42.4427,
+        "lng": -76.4842
+    },
+    "Olin Hall": {
+        "name": "Olin Hall",
+        "lat": 42.4454,
+        "lng": -76.4844
+    },
+    "Olin Library": {
+        "name": "Olin Library",
+        "lat": 42.4479,
+        "lng": -76.4842
+    },
+    "Olive Tjaden Hall": {
+        "name": "Olive Tjaden Hall",
+        "lat": 42.4509,
+        "lng": -76.4854
+    },
+    "Orchards Parking": {
+        "name": "Orchards Parking",
+        "lat": 42.4452,
+        "lng": -76.4623
+    },
+    "Oxley Equestrian Center": {
+        "name": "Oxley Equestrian Center",
+        "lat": 42.434,
+        "lng": -76.4646
+    },
+    "Parking at Alumni House": {
+        "name": "Parking at Alumni House",
+        "lat": 42.452,
+        "lng": -76.481
+    },
+    "Parking at Art Museum": {
+        "name": "Parking at Art Museum",
+        "lat": 42.451,
+        "lng": -76.486
+    },
+    "Parking at Helen Newman": {
+        "name": "Parking at Helen Newman",
+        "lat": 42.4529,
+        "lng": -76.4785
+    },
+    "Parking at Toboggan Lodge": {
+        "name": "Parking at Toboggan Lodge",
+        "lat": 42.451,
+        "lng": -76.4791
+    },
+    "Parrot Hall": {
+        "name": "Parrot Hall",
+        "lat": 42.8769,
+        "lng": -77.008
+    },
+    "Peony Gardens": {
+        "name": "Peony Gardens",
+        "lat": 42.4491,
+        "lng": -76.4725
+    },
+    "Phi Delta Theta": {
+        "name": "Phi Delta Theta",
+        "lat": 42.4548,
+        "lng": -76.4895
+    },
+    "Phi Gamma Delta": {
+        "name": "Phi Gamma Delta",
+        "lat": 42.4515,
+        "lng": -76.4892
+    },
+    "Phi Kappa Tau": {
+        "name": "Phi Kappa Tau",
+        "lat": 42.4538,
+        "lng": -76.4884
+    },
+    "Phi Mu": {
+        "name": "Phi Mu",
+        "lat": 42.4572,
+        "lng": -76.4871
+    },
+    "Phi Sigma Sigma": {
+        "name": "Phi Sigma Sigma",
+        "lat": 42.445,
+        "lng": -76.4878
+    },
+    "Phillips Hall": {
+        "name": "Phillips Hall",
+        "lat": 42.4445,
+        "lng": -76.482
+    },
+    "Physical Sciences Building": {
+        "name": "Physical Sciences Building",
+        "lat": 42.4499,
+        "lng": -76.4818
+    },
+    "Pi Beta Phi": {
+        "name": "Pi Beta Phi",
+        "lat": 42.4582,
+        "lng": -76.4826
+    },
+    "Pi Delta Psi": {
+        "name": "Pi Delta Psi",
+        "lat": 42.4557,
+        "lng": -76.4814
+    },
+    "Pi Kappa Alpha": {
+        "name": "Pi Kappa Alpha",
+        "lat": 42.4445,
+        "lng": -76.4884
+    },
+    "Pi Kappa Phi": {
+        "name": "Pi Kappa Phi",
+        "lat": 42.4555,
+        "lng": -76.4885
+    },
+    "Plant Breeding Love Laboratory": {
+        "name": "Plant Breeding Love Laboratory",
+        "lat": 42.4492,
+        "lng": -76.462
+    },
+    "Plant Pathology Greenhouse Complex": {
+        "name": "Plant Pathology Greenhouse Complex",
+        "lat": 42.4484,
+        "lng": -76.4686
+    },
+    "Plant Pathology Herbarium": {
+        "name": "Plant Pathology Herbarium",
+        "lat": 42.4442,
+        "lng": -76.4509
+    },
+    "Plant Science Building": {
+        "name": "Plant Science Building",
+        "lat": 42.4483,
+        "lng": -76.477
+    },
+    "Plant Virology and Nematology Laboratory": {
+        "name": "Plant Virology and Nematology Laboratory",
+        "lat": 42.448,
+        "lng": -76.4683
+    },
+    "Print Shop": {
+        "name": "Print Shop",
+        "lat": 42.4434,
+        "lng": -76.4713
+    },
+    "Prospect of Whitby": {
+        "name": "Prospect of Whitby",
+        "lat": 42.4549,
+        "lng": -76.4821
+    },
+    "Prudence Risley Residential College": {
+        "name": "Prudence Risley Residential College",
+        "lat": 42.4531,
+        "lng": -76.4819
+    },
+    "Rand Hall": {
+        "name": "Rand Hall",
+        "lat": 42.4512,
+        "lng": -76.4829
+    },
+    "Raptor Facility": {
+        "name": "Raptor Facility",
+        "lat": 42.4425,
+        "lng": -76.4508
+    },
+    "Raw Products (AgriTech)": {
+        "name": "Raw Products (AgriTech)",
+        "lat": 42.8755,
+        "lng": -77.0099
+    },
+    "Real Estate Department": {
+        "name": "Real Estate Department",
+        "lat": 42.4854,
+        "lng": -76.4663
+    },
+    "Reis Tennis Center": {
+        "name": "Reis Tennis Center",
+        "lat": 42.435,
+        "lng": -76.4654
+    },
+    "Resource Ecology and Management Laboratory": {
+        "name": "Resource Ecology and Management Laboratory",
+        "lat": 42.4417,
+        "lng": -76.4669
+    },
+    "Rhodes Hall": {
+        "name": "Rhodes Hall",
+        "lat": 42.4434,
+        "lng": -76.4814
+    },
+    "Rice Hall": {
+        "name": "Rice Hall",
+        "lat": 42.4479,
+        "lng": -76.4741
+    },
+    "Richard M. Lewis Education Center": {
+        "name": "Richard M. Lewis Education Center",
+        "lat": 42.4497,
+        "lng": -76.4718
+    },
+    "Riley-Robb Hall": {
+        "name": "Riley-Robb Hall",
+        "lat": 42.4458,
+        "lng": -76.4712
+    },
+    "Robert J & Helen Appel Commons": {
+        "name": "Robert J & Helen Appel Commons",
+        "lat": 42.4536,
+        "lng": -76.4761
+    },
+    "Robert Purcell Community Center": {
+        "name": "Robert Purcell Community Center",
+        "lat": 42.4559,
+        "lng": -76.4775
+    },
+    "Robert Trent Jones Golf Course": {
+        "name": "Robert Trent Jones Golf Course",
+        "lat": 42.4603,
+        "lng": -76.4744
+    },
+    "Robert W. Holley Center for Agriculture and Health": {
+        "name": "Robert W. Holley Center for Agriculture and Health",
+        "lat": 42.4479,
+        "lng": -76.4674
+    },
+    "Roberts Hall": {
+        "name": "Roberts Hall",
+        "lat": 42.4487,
+        "lng": -76.4794
+    },
+    "Robison Alumni Fields": {
+        "name": "Robison Alumni Fields",
+        "lat": 42.4468,
+        "lng": -76.4752
+    },
+    "Robison Shellhouse": {
+        "name": "Robison Shellhouse",
+        "lat": 42.4467,
+        "lng": -76.5113
+    },
+    "Robison Softball Field": {
+        "name": "Robison Softball Field",
+        "lat": 42.4356,
+        "lng": -76.4662
+    },
+    "Rockefeller Hall": {
+        "name": "Rockefeller Hall",
+        "lat": 42.449,
+        "lng": -76.4818
+    },
+    "Ruminant Nutrition Laboratory": {
+        "name": "Ruminant Nutrition Laboratory",
+        "lat": 42.4461,
+        "lng": -76.4675
+    },
+    "Ruth Bader Ginsburg Hall": {
+        "name": "Ruth Bader Ginsburg Hall",
+        "lat": 42.4544,
+        "lng": -76.4758
+    },
+    "S Barn": {
+        "name": "S Barn",
+        "lat": 42.4482,
+        "lng": -76.4638
+    },
+    "S. T. Olin": {
+        "name": "S. T. Olin",
+        "lat": 42.4507,
+        "lng": -76.4813
+    },
+    "SPCA": {
+        "name": "SPCA",
+        "lat": 42.472,
+        "lng": -76.4386
+    },
+    "Sage Chapel": {
+        "name": "Sage Chapel",
+        "lat": 42.4472,
+        "lng": -76.4845
+    },
+    "Sage Hall": {
+        "name": "Sage Hall",
+        "lat": 42.4459,
+        "lng": -76.4832
+    },
+    "Sage House": {
+        "name": "Sage House",
+        "lat": 42.4397,
+        "lng": -76.4915
+    },
+    "Savage Hall": {
+        "name": "Savage Hall",
+        "lat": 42.4497,
+        "lng": -76.4801
+    },
+    "Sawdust Caf\u00e9 (AgriTech)": {
+        "name": "Sawdust Caf\u00e9 (AgriTech)",
+        "lat": 42.8767,
+        "lng": -77.0016
+    },
+    "Schoellkopf Field": {
+        "name": "Schoellkopf Field",
+        "lat": 42.444,
+        "lng": -76.4787
+    },
+    "Schoellkopf House": {
+        "name": "Schoellkopf House",
+        "lat": 42.445,
+        "lng": -76.4792
+    },
+    "Schoellkopf Memorial": {
+        "name": "Schoellkopf Memorial",
+        "lat": 42.445,
+        "lng": -76.4786
+    },
+    "Schurman Hall": {
+        "name": "Schurman Hall",
+        "lat": 42.448,
+        "lng": -76.4661
+    },
+    "Schwardt Laboratory": {
+        "name": "Schwardt Laboratory",
+        "lat": 42.4367,
+        "lng": -76.428
+    },
+    "Schwartz Center for Performing Arts": {
+        "name": "Schwartz Center for Performing Arts",
+        "lat": 42.4424,
+        "lng": -76.4859
+    },
+    "Sculpture Garden": {
+        "name": "Sculpture Garden",
+        "lat": 42.4519,
+        "lng": -76.4551
+    },
+    "Seal and Serpent Society": {
+        "name": "Seal and Serpent Society",
+        "lat": 42.4535,
+        "lng": -76.4856
+    },
+    "Seed Processing (AgriTech)": {
+        "name": "Seed Processing (AgriTech)",
+        "lat": 42.8755,
+        "lng": -77.0099
+    },
+    "Seeley Mudd Hall": {
+        "name": "Seeley Mudd Hall",
+        "lat": 42.4472,
+        "lng": -76.479
+    },
+    "Sheldon Court": {
+        "name": "Sheldon Court",
+        "lat": 42.4422,
+        "lng": -76.4856
+    },
+    "Sibley Hall": {
+        "name": "Sibley Hall",
+        "lat": 42.4509,
+        "lng": -76.4841
+    },
+    "Sigma Alpha Mu": {
+        "name": "Sigma Alpha Mu",
+        "lat": 42.4553,
+        "lng": -76.4805
+    },
+    "Sigma Chi": {
+        "name": "Sigma Chi",
+        "lat": 42.4567,
+        "lng": -76.4912
+    },
+    "Sigma Delta Tau": {
+        "name": "Sigma Delta Tau",
+        "lat": 42.4561,
+        "lng": -76.4885
+    },
+    "Sigma Phi": {
+        "name": "Sigma Phi",
+        "lat": 42.446,
+        "lng": -76.4885
+    },
+    "Sigma Pi": {
+        "name": "Sigma Pi",
+        "lat": 42.4497,
+        "lng": -76.4883
+    },
+    "Snee Hall": {
+        "name": "Snee Hall",
+        "lat": 42.4436,
+        "lng": -76.4849
+    },
+    "Space Sciences Building": {
+        "name": "Space Sciences Building",
+        "lat": 42.4489,
+        "lng": -76.4811
+    },
+    "Spray Lab (AgriTech)": {
+        "name": "Spray Lab (AgriTech)",
+        "lat": 42.875,
+        "lng": -77.0094
+    },
+    "State Theatre": {
+        "name": "State Theatre",
+        "lat": 42.4394,
+        "lng": -76.4996
+    },
+    "Statler Auditorium": {
+        "name": "Statler Auditorium",
+        "lat": 42.4455,
+        "lng": -76.4821
+    },
+    "Statler Hall": {
+        "name": "Statler Hall",
+        "lat": 42.4458,
+        "lng": -76.4822
+    },
+    "Statler Hotel & J. Willard Marriott Executive Education Center": {
+        "name": "Statler Hotel & J. Willard Marriott Executive Education Center",
+        "lat": 42.4464,
+        "lng": -76.4822
+    },
+    "Stewart Park": {
+        "name": "Stewart Park",
+        "lat": 42.4621,
+        "lng": -76.5018
+    },
+    "Stimson Hall": {
+        "name": "Stimson Hall",
+        "lat": 42.4478,
+        "lng": -76.4833
+    },
+    "Stocking Hall": {
+        "name": "Stocking Hall",
+        "lat": 42.4472,
+        "lng": -76.4712
+    },
+    "Sturtevant Hall": {
+        "name": "Sturtevant Hall",
+        "lat": 42.8766,
+        "lng": -77.0067
+    },
+    "Sturtevant Hall (AgriTech)": {
+        "name": "Sturtevant Hall (AgriTech)",
+        "lat": 42.8771,
+        "lng": -77.0072
+    },
+    "Surge 3 Facility": {
+        "name": "Surge 3 Facility",
+        "lat": 42.446,
+        "lng": -76.4702
+    },
+    "Surge Laboratory (AgriTech)": {
+        "name": "Surge Laboratory (AgriTech)",
+        "lat": 42.875,
+        "lng": -77.0094
+    },
+    "Swanson Wildlife Health Center": {
+        "name": "Swanson Wildlife Health Center",
+        "lat": 42.4268,
+        "lng": -76.453
+    },
+    "T Barn": {
+        "name": "T Barn",
+        "lat": 42.4479,
+        "lng": -76.4636
+    },
+    "Taughannock Falls State Park": {
+        "name": "Taughannock Falls State Park",
+        "lat": 42.5465,
+        "lng": -76.5985
+    },
+    "Teagle Hall": {
+        "name": "Teagle Hall",
+        "lat": 42.4458,
+        "lng": -76.4791
+    },
+    "Technion-Cornell Innovation Institute": {
+        "name": "Technion-Cornell Innovation Institute",
+        "lat": 40.7622,
+        "lng": -73.95
+    },
+    "Telluride House": {
+        "name": "Telluride House",
+        "lat": 42.4458,
+        "lng": -76.4871
+    },
+    "The Cornell Store": {
+        "name": "The Cornell Store",
+        "lat": 42.4467,
+        "lng": -76.4842
+    },
+    "Theta Delta Chi": {
+        "name": "Theta Delta Chi",
+        "lat": 42.4501,
+        "lng": -76.4877
+    },
+    "Thurston Hall": {
+        "name": "Thurston Hall",
+        "lat": 42.4439,
+        "lng": -76.4837
+    },
+    "Tobin Field House": {
+        "name": "Tobin Field House",
+        "lat": 42.4565,
+        "lng": -76.481
+    },
+    "Toboggan Lodge": {
+        "name": "Toboggan Lodge",
+        "lat": 42.4512,
+        "lng": -76.4786
+    },
+    "Tompkins Co. Cooperative Extension": {
+        "name": "Tompkins Co. Cooperative Extension",
+        "lat": 42.4506,
+        "lng": -76.5035
+    },
+    "Tompkins County Public Library": {
+        "name": "Tompkins County Public Library",
+        "lat": 42.4384,
+        "lng": -76.4984
+    },
+    "Toni Morrison Hall": {
+        "name": "Toni Morrison Hall",
+        "lat": 42.4554,
+        "lng": -76.4797
+    },
+    "Triphammer Road Cooperative": {
+        "name": "Triphammer Road Cooperative",
+        "lat": 42.456,
+        "lng": -76.4815
+    },
+    "Turfgrass Field Research Lab": {
+        "name": "Turfgrass Field Research Lab",
+        "lat": 42.4596,
+        "lng": -76.4608
+    },
+    "USDA (AgriTech)": {
+        "name": "USDA (AgriTech)",
+        "lat": 42.8762,
+        "lng": -77.0082
+    },
+    "USDA Screenhouse (AgriTech)": {
+        "name": "USDA Screenhouse (AgriTech)",
+        "lat": 42.8574,
+        "lng": -77.0349
+    },
+    "Ujamaa Residential College": {
+        "name": "Ujamaa Residential College",
+        "lat": 42.4553,
+        "lng": -76.4767
+    },
+    "Undergraduate Admissions Office": {
+        "name": "Undergraduate Admissions Office",
+        "lat": 42.4539,
+        "lng": -76.4843
+    },
+    "Upson Hall": {
+        "name": "Upson Hall",
+        "lat": 42.4439,
+        "lng": -76.4821
+    },
+    "Uris Hall": {
+        "name": "Uris Hall",
+        "lat": 42.4472,
+        "lng": -76.4822
+    },
+    "Uris Library": {
+        "name": "Uris Library",
+        "lat": 42.4478,
+        "lng": -76.4854
+    },
+    "Vet Education Center": {
+        "name": "Vet Education Center",
+        "lat": 42.4474,
+        "lng": -76.4658
+    },
+    "Vet Medical Center": {
+        "name": "Vet Medical Center",
+        "lat": 42.4474,
+        "lng": -76.4644
+    },
+    "Vet Research Tower": {
+        "name": "Vet Research Tower",
+        "lat": 42.4473,
+        "lng": -76.4662
+    },
+    "Von Cramm Hall": {
+        "name": "Von Cramm Hall",
+        "lat": 42.4489,
+        "lng": -76.4913
+    },
+    "War Memorial": {
+        "name": "War Memorial",
+        "lat": 42.4475,
+        "lng": -76.4879
+    },
+    "Ward Center for Nuclear Science": {
+        "name": "Ward Center for Nuclear Science",
+        "lat": 42.4434,
+        "lng": -76.483
+    },
+    "Wari Cooperative": {
+        "name": "Wari Cooperative",
+        "lat": 42.4564,
+        "lng": -76.4825
+    },
+    "Warren Hall": {
+        "name": "Warren Hall",
+        "lat": 42.4492,
+        "lng": -76.4771
+    },
+    "Watermargin": {
+        "name": "Watermargin",
+        "lat": 42.4501,
+        "lng": -76.4882
+    },
+    "Weill Cornell Medical College": {
+        "name": "Weill Cornell Medical College",
+        "lat": 40.765,
+        "lng": -73.9551
+    },
+    "Weill Hall": {
+        "name": "Weill Hall",
+        "lat": 42.4469,
+        "lng": -76.4775
+    },
+    "White Hall": {
+        "name": "White Hall",
+        "lat": 42.4503,
+        "lng": -76.4854
+    },
+    "Willard Straight Hall": {
+        "name": "Willard Straight Hall",
+        "lat": 42.4465,
+        "lng": -76.4856
+    },
+    "Wilson Synchrotron Lab & Ring": {
+        "name": "Wilson Synchrotron Lab & Ring",
+        "lat": 42.445,
+        "lng": -76.473
+    },
+    "Wilson Synchrotron Lab Parking": {
+        "name": "Wilson Synchrotron Lab Parking",
+        "lat": 42.4447,
+        "lng": -76.4712
+    },
+    "Wing Hall": {
+        "name": "Wing Hall",
+        "lat": 42.4466,
+        "lng": -76.4716
+    },
+    "Zeta Psi": {
+        "name": "Zeta Psi",
+        "lat": 42.4541,
+        "lng": -76.4818
+    },
+    "Zucker Shrub Collection and Harris Lilac Collection": {
+        "name": "Zucker Shrub Collection and Harris Lilac Collection",
+        "lat": 42.4526,
+        "lng": -76.4561
+    },
+    "104 West!": {
+        "name": "104 West!",
+        "lat": 42.4443,
+        "lng": -76.4879
+    },
+    "112 Edgemoor": {
+        "name": "112 Edgemoor",
+        "lat": 42.4441,
+        "lng": -76.4884
+    },
+    "116 Maple Ave.": {
+        "name": "116 Maple Ave.",
+        "lat": 42.4413,
+        "lng": -76.4764
+    },
+    "120 Maple Ave.": {
+        "name": "120 Maple Ave.",
+        "lat": 42.4413,
+        "lng": -76.4755
+    },
+    "337 Pine Tree Road": {
+        "name": "337 Pine Tree Road",
+        "lat": 42.4379,
+        "lng": -76.4627
+    },
+    "341 Pine Tree Road": {
+        "name": "341 Pine Tree Road",
+        "lat": 42.4379,
+        "lng": -76.4631
+    },
+    "353 Pine Tree Road": {
+        "name": "353 Pine Tree Road",
+        "lat": 42.4381,
+        "lng": -76.4622
+    },
+    "373 Pine Tree Road": {
+        "name": "373 Pine Tree Road",
+        "lat": 42.4377,
+        "lng": -76.4621
+    },
+    "377 Pine Tree Road": {
+        "name": "377 Pine Tree Road",
+        "lat": 42.4376,
+        "lng": -76.4631
+    },
+    "391 Pine Tree Road": {
+        "name": "391 Pine Tree Road",
+        "lat": 42.439,
+        "lng": -76.4653
+    },
+    "395 Pine Tree Road": {
+        "name": "395 Pine Tree Road",
+        "lat": 42.439,
+        "lng": -76.4632
+    },
+    "4-H Acres": {
+        "name": "4-H Acres",
+        "lat": 42.4732,
+        "lng": -76.4191
+    },
+    "409 College Ave.": {
+        "name": "409 College Ave.",
+        "lat": 42.4421,
+        "lng": -76.485
+    },
+    "626 Thurston": {
+        "name": "626 Thurston",
+        "lat": 42.4518,
+        "lng": -76.4809
+    },
+    "726 University Ave.": {
+        "name": "726 University Ave.",
+        "lat": 42.4496,
+        "lng": -76.4888
+    }
+}

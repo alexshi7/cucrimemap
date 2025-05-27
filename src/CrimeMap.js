@@ -4,7 +4,10 @@ import 'leaflet/dist/leaflet.css';
 
 const CrimeMap = ({ dataUrl }) => {
     const [crimes, setCrimes] = useState([]);
+    const [locationMap, setLocationMap] = useState({});
+    const fallbackCoordinates = [42.447, -76.484]; // Default to Cornell campus
 
+    // Load crimes
     useEffect(() => {
         fetch(dataUrl)
             .then(res => res.json())
@@ -12,15 +15,35 @@ const CrimeMap = ({ dataUrl }) => {
             .catch(err => console.error("Failed to load crime data:", err));
     }, [dataUrl]);
 
-    const fallbackCoordinates = [42.447, -76.484]; // Default to Cornell campus
+    // Load location map
+    useEffect(() => {
+        fetch('/location-map.json')
+            .then(res => res.json())
+            .then(data => setLocationMap(data))
+            .catch(err => console.error("Failed to load location map:", err));
+    }, []);
+
+    // Helper to get coordinates for a location string
+    const getCoordinates = (location) => {
+        if (!locationMap || !location) return fallbackCoordinates;
+        // Try exact match
+        if (locationMap[location]) {
+            return [locationMap[location].lat, locationMap[location].lng];
+        }
+        // Try partial match (for locations like "Barton Hall Bike Rack")
+        const key = Object.keys(locationMap).find(k => location.includes(k));
+        if (key) {
+            return [locationMap[key].lat, locationMap[key].lng];
+        }
+        return fallbackCoordinates;
+    };
 
     return (
         <MapContainer center={fallbackCoordinates} zoom={16} style={{ height: '600px', width: '100%' }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
 
             {crimes.map((crime, idx) => {
-                // You will geocode properly later. For now: fallback to center
-                const position = fallbackCoordinates;
+                const position = getCoordinates(crime.location);
 
                 return (
                     <Marker key={idx} position={position}>
