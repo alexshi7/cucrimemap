@@ -1,7 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import MarkerClusterGroup from 'react-leaflet-markercluster';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import 'leaflet.markercluster/dist/MarkerCluster.css';
+import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
+
 import './App.css'; // For .dot styles
 
 const CrimeMap = ({ dataUrl }) => {
@@ -29,42 +33,57 @@ const CrimeMap = ({ dataUrl }) => {
     }, []);
 
     const normalize = (str) =>
-        str.toLowerCase().replace(/[^\w\s]/gi, '').trim();
+        str.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
 
     const getCoordinates = (location) => {
         if (!location || !locationMap) return fallbackCoordinates;
 
         let normLoc = normalize(location);
 
-        // Alias substitution (e.g. "lr" → "Low Rise")
-        for (const [alias, replacement] of Object.entries(aliases)) {
-            if (normLoc.includes(alias)) {
-                normLoc = normLoc.replace(alias, normalize(replacement));
+        // Tokenize to prevent false positive matches like "lynahrink" → "hr"
+        const tokens = normLoc.split(/(?=[a-z])(?<=[0-9])|(?=[0-9])(?<=[a-z])/g); // splits letters/numbers
+
+        for (const [aliasRaw, replacementRaw] of Object.entries(aliases)) {
+            const alias = normalize(aliasRaw);
+            const replacement = normalize(replacementRaw);
+
+            // Only match if alias is an exact token
+            if (tokens.includes(alias)) {
+                normLoc = replacement;
+                break;
+            }
+        }
+
+        // Exact match
+        for (const [locKey, coords] of Object.entries(locationMap)) {
+            if (normalize(locKey) === normLoc) {
+                return [coords.lat, coords.lng];
             }
         }
 
         // Fuzzy match
-        const key = Object.keys(locationMap).find(k =>
-            normalize(k).includes(normLoc) || normLoc.includes(normalize(k))
-        );
-
-        if (key) {
-            return [locationMap[key].lat, locationMap[key].lng];
+        for (const [locKey, coords] of Object.entries(locationMap)) {
+            const normKey = normalize(locKey);
+            if (normKey.includes(normLoc) || normLoc.includes(normKey)) {
+                return [coords.lat, coords.lng];
+            }
         }
 
+        console.warn(`Fallback location used for: "${location}"`);
         return fallbackCoordinates;
     };
+
 
     const getStatusColor = (disposition = "") => {
         const status = disposition.toLowerCase();
 
-        if (status.includes("arrest")) return "#d62728";               // Red
-        if (status.includes("exceptional clearance")) return "#ff7f0e"; // Orange
-        if (status.includes("pending")) return "#1f77b4";               // Blue
-        if (status.includes("closed")) return "#2ca02c";                // Green
-        if (status.includes("unfounded")) return "#9467bd";             // Purple
+        if (status.includes("arrest")) return "#d62728";
+        if (status.includes("exceptional clearance")) return "#ff7f0e";
+        if (status.includes("pending")) return "#1f77b4";
+        if (status.includes("closed")) return "#2ca02c";
+        if (status.includes("unfounded")) return "#9467bd";
 
-        return "gray"; // Unknown or fallback
+        return "gray";
     };
 
     const getDotIcon = (disposition) => {
@@ -81,22 +100,22 @@ const CrimeMap = ({ dataUrl }) => {
     return (
         <MapContainer center={fallbackCoordinates} zoom={16} style={{ height: '600px', width: '100%' }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-
-            {crimes.map((crime, idx) => {
-                const position = getCoordinates(crime.location);
-
-                return (
-                    <Marker key={idx} position={position} icon={getDotIcon(crime.disposition)}>
-                        <Popup>
-                            <strong>{crime.incidentType}</strong><br />
-                            <em>{crime.location}</em><br />
-                            {crime.reported}<br />
-                            <small>{crime.disposition}</small><br />
-                            <p>{crime.narrative}</p>
-                        </Popup>
-                    </Marker>
-                );
-            })}
+            <MarkerClusterGroup>
+                {crimes.map((crime, idx) => {
+                    const position = getCoordinates(crime.location);
+                    return (
+                        <Marker key={idx} position={position} icon={getDotIcon(crime.disposition)}>
+                            <Popup>
+                                <strong>{crime.incidentType}</strong><br />
+                                <em>{crime.location}</em><br />
+                                {crime.reported}<br />
+                                <small>{crime.disposition}</small><br />
+                                <p>{crime.narrative}</p>
+                            </Popup>
+                        </Marker>
+                    );
+                })}
+            </MarkerClusterGroup>
         </MapContainer>
     );
 };

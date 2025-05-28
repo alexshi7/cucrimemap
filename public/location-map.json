@@ -1,15 +1,37 @@
 {
     "aliases": {
-        "lr": "Low Rise",
+        "LR": "Low Rise",
         "hr": "High Rise",
         "hu hall": "Hu Shih Hall",
         "toni morrison hall dining": "Toni Morrison Hall",
-        "Gates Hall": "Bill and Melinda Gates Hall"
+        "MVR Hall": "Martha Van Rensselaer Hall",
+        "Gates Hall": "Bill and Melinda Gates Hall",
+        "HEB Parking Garage Bike Rack": "Hoy Rd. Parking Garage",
+        "HEB Parking Garage": "Hoy Rd. Parking Garage",
+        "HEB Parking": "Hoy Rd. Parking Garage",
+        "Hoy Road Parking Garage": "Hoy Rd. Parking Garage",
+        "Ground Water Treatment Plant": "Chilled Water Plant",
+        "A-lot Parking Area": "A-Lot Staff Parking"
     },
     "Toni Morrison Hall": {
         "name": "Toni Morrison Hall",
         "lat": 42.4554,
         "lng": -76.4797
+    },
+    "Animal Health Diagnostic": {
+        "name": "Animal Health Diagnostic Center",
+        "lat": 42.44895098287628,
+        "lng": -76.46420752187308
+    },
+    "Baker Lab": {
+        "name": "Baker Laboratory",
+        "lat": 42.45047001986221,
+        "lng": -76.4819497476013
+    },
+    "Library Slope": {
+        "name": "Library Slope",
+        "lat": 42.44870609734233,
+        "lng": -76.48634780982269
     },
     "A-Lot Staff Parking": {
         "name": "A-Lot Staff Parking",
@@ -1626,6 +1648,11 @@
         "lat": 42.4531,
         "lng": -76.4819
     },
+    "Risley Hall": {
+        "name": "Risley Hall",
+        "lat": 42.4531,
+        "lng": -76.4819
+    },
     "Rand Hall": {
         "name": "Rand Hall",
         "lat": 42.4512,
@@ -1727,6 +1754,11 @@
         "lng": -76.4675
     },
     "Ruth Bader Ginsburg Hall": {
+        "name": "Ruth Bader Ginsburg Hall",
+        "lat": 42.4544,
+        "lng": -76.4758
+    },
+    "Ginsburg Hall": {
         "name": "Ruth Bader Ginsburg Hall",
         "lat": 42.4544,
         "lng": -76.4758
