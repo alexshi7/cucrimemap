@@ -1,13 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import './App.css'; // For .dot styles
 
 const CrimeMap = ({ dataUrl }) => {
     const [crimes, setCrimes] = useState([]);
     const [locationMap, setLocationMap] = useState({});
-    const fallbackCoordinates = [42.447, -76.484]; // Default to Cornell campus
+    const [aliases, setAliases] = useState({});
+    const fallbackCoordinates = [42.447, -76.484]; // Cornell center
 
-    // Load crimes
     useEffect(() => {
         fetch(dataUrl)
             .then(res => res.json())
@@ -15,27 +17,65 @@ const CrimeMap = ({ dataUrl }) => {
             .catch(err => console.error("Failed to load crime data:", err));
     }, [dataUrl]);
 
-    // Load location map
     useEffect(() => {
         fetch('/location-map.json')
             .then(res => res.json())
-            .then(data => setLocationMap(data))
+            .then(data => {
+                const { aliases: a, ...rest } = data;
+                setAliases(a || {});
+                setLocationMap(rest);
+            })
             .catch(err => console.error("Failed to load location map:", err));
     }, []);
 
-    // Helper to get coordinates for a location string
+    const normalize = (str) =>
+        str.toLowerCase().replace(/[^\w\s]/gi, '').trim();
+
     const getCoordinates = (location) => {
-        if (!locationMap || !location) return fallbackCoordinates;
-        // Try exact match
-        if (locationMap[location]) {
-            return [locationMap[location].lat, locationMap[location].lng];
+        if (!location || !locationMap) return fallbackCoordinates;
+
+        let normLoc = normalize(location);
+
+        // Alias substitution (e.g. "lr" → "Low Rise")
+        for (const [alias, replacement] of Object.entries(aliases)) {
+            if (normLoc.includes(alias)) {
+                normLoc = normLoc.replace(alias, normalize(replacement));
+            }
         }
-        // Try partial match (for locations like "Barton Hall Bike Rack")
-        const key = Object.keys(locationMap).find(k => location.includes(k));
+
+        // Fuzzy match
+        const key = Object.keys(locationMap).find(k =>
+            normalize(k).includes(normLoc) || normLoc.includes(normalize(k))
+        );
+
         if (key) {
             return [locationMap[key].lat, locationMap[key].lng];
         }
+
         return fallbackCoordinates;
+    };
+
+    const getStatusColor = (disposition = "") => {
+        const status = disposition.toLowerCase();
+
+        if (status.includes("arrest")) return "#d62728";               // Red
+        if (status.includes("exceptional clearance")) return "#ff7f0e"; // Orange
+        if (status.includes("pending")) return "#1f77b4";               // Blue
+        if (status.includes("closed")) return "#2ca02c";                // Green
+        if (status.includes("unfounded")) return "#9467bd";             // Purple
+
+        return "gray"; // Unknown or fallback
+    };
+
+    const getDotIcon = (disposition) => {
+        const color = getStatusColor(disposition);
+        return L.divIcon({
+            className: 'dot-icon',
+            html: `<div class="dot" style="background-color:${color}"></div>`,
+            iconSize: [12, 12],
+            iconAnchor: [6, 6],
+            popupAnchor: [0, -6],
+        });
     };
 
     return (
@@ -46,7 +86,7 @@ const CrimeMap = ({ dataUrl }) => {
                 const position = getCoordinates(crime.location);
 
                 return (
-                    <Marker key={idx} position={position}>
+                    <Marker key={idx} position={position} icon={getDotIcon(crime.disposition)}>
                         <Popup>
                             <strong>{crime.incidentType}</strong><br />
                             <em>{crime.location}</em><br />

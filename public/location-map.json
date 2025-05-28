@@ -1,4 +1,16 @@
 {
+    "aliases": {
+        "lr": "Low Rise",
+        "hr": "High Rise",
+        "hu hall": "Hu Shih Hall",
+        "toni morrison hall dining": "Toni Morrison Hall",
+        "Gates Hall": "Bill and Melinda Gates Hall"
+    },
+    "Toni Morrison Hall": {
+        "name": "Toni Morrison Hall",
+        "lat": 42.4554,
+        "lng": -76.4797
+    },
     "A-Lot Staff Parking": {
         "name": "A-Lot Staff Parking",
         "lat": 42.4584,
@@ -1978,11 +1990,6 @@
         "name": "Tompkins County Public Library",
         "lat": 42.4384,
         "lng": -76.4984
-    },
-    "Toni Morrison Hall": {
-        "name": "Toni Morrison Hall",
-        "lat": 42.4554,
-        "lng": -76.4797
     },
     "Triphammer Road Cooperative": {
         "name": "Triphammer Road Cooperative",
