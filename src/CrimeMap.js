@@ -40,16 +40,13 @@ const CrimeMap = ({ dataUrl }) => {
 
         let normLoc = normalize(location);
 
-        // Tokenize to prevent false positive matches like "lynahrink" → "hr"
-        const tokens = normLoc.split(/(?=[a-z])(?<=[0-9])|(?=[0-9])(?<=[a-z])/g); // splits letters/numbers
-
+        // Direct alias replacement
         for (const [aliasRaw, replacementRaw] of Object.entries(aliases)) {
             const alias = normalize(aliasRaw);
-            const replacement = normalize(replacementRaw);
+            const replacement = replacementRaw; // leave replacement as-is for mapping!
 
-            // Only match if alias is an exact token
-            if (tokens.includes(alias)) {
-                normLoc = replacement;
+            if (normLoc === alias) {
+                normLoc = normalize(replacement);
                 break;
             }
         }
@@ -61,7 +58,7 @@ const CrimeMap = ({ dataUrl }) => {
             }
         }
 
-        // Fuzzy match
+        // Fuzzy match (cautious!)
         for (const [locKey, coords] of Object.entries(locationMap)) {
             const normKey = normalize(locKey);
             if (normKey.includes(normLoc) || normLoc.includes(normKey)) {
@@ -72,6 +69,7 @@ const CrimeMap = ({ dataUrl }) => {
         console.warn(`Fallback location used for: "${location}"`);
         return fallbackCoordinates;
     };
+
 
 
     const getStatusColor = (disposition = "") => {

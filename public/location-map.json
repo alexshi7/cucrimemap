@@ -1,17 +1,167 @@
 {
     "aliases": {
-        "LR": "Low Rise",
-        "hr": "High Rise",
+        "LR#6": "North Campus Low Rise 6",
+        "LR#7": "North Campus Low Rise 7",
+        "LR#9": "North Campus Low Rise 9",
+        "HR#5": "North Campus High Rise 5",
+        "HR#1": "North Campus High Rise",
         "hu hall": "Hu Shih Hall",
         "toni morrison hall dining": "Toni Morrison Hall",
         "MVR Hall": "Martha Van Rensselaer Hall",
         "Gates Hall": "Bill and Melinda Gates Hall",
-        "HEB Parking Garage Bike Rack": "Hoy Rd. Parking Garage",
-        "HEB Parking Garage": "Hoy Rd. Parking Garage",
-        "HEB Parking": "Hoy Rd. Parking Garage",
+        "HEB": "Human Ecology Building",
         "Hoy Road Parking Garage": "Hoy Rd. Parking Garage",
         "Ground Water Treatment Plant": "Chilled Water Plant",
-        "A-lot Parking Area": "A-Lot Staff Parking"
+        "A-lot Parking Area": "A-Lot Staff Parking",
+        "810 University Avenue": "Chi Psi",
+        "117 Triphammer Road": "Delta Gamma",
+        "Kosher Dining": "104West!",
+        "6 South Avenue": "Delta Upsilon"
+    },
+    "Tower Road": {
+        "name": "Tower Road",
+        "lat": 42.447701086631646,
+        "lng": -76.47629599836736
+    },
+    "Valentine Place": {
+        "name": "Valentine Place",
+        "lat": 42.436642707360434,
+        "lng": -76.48713569495925
+    },
+    "Palm Road": {
+        "name": "Palm Road",
+        "lat": 42.44573951310497,
+        "lng": -76.45884753432064
+    },
+    "Cascadilla Gorge Area": {
+        "name": "Cascadilla Gorge Area",
+        "lat": 42.442393144837325,
+        "lng": -76.47885864718201
+    },
+    "Five Corners": {
+        "name": "Five Corners",
+        "lat": 42.44138682172014,
+        "lng": -76.47767869709087
+    },
+    "Bryant Ave": {
+        "name": "Bryant Avenue",
+        "lat": 42.44008505391489,
+        "lng": -76.4824468851456
+    },
+    "Catherine Street": {
+        "name": "Catherine Street",
+        "lat": 42.44031821763957,
+        "lng": -76.48626093958998
+    },
+    "Dryden Road": {
+        "name": "Dryden Road",
+        "lat": 42.441150560520505,
+        "lng": -76.47915208592052
+    },
+    "E. Green Street": {
+        "name": "E. Green Street",
+        "lat": 42.43870550592992,
+        "lng": -76.49737939395801
+    },
+    "103 Farrier Road": {
+        "name": "103 Farrier Road",
+        "lat": 42.4483055237099,
+        "lng": -76.46270867946829
+    },
+    "Cascadilla Place": {
+        "name": "Cascadilla Place",
+        "lat": 42.44253413641611,
+        "lng": -76.4874711308382
+    },
+    "Cayuga Street Parking Garage": {
+        "name": "Cayuga Street Parking Garage",
+        "lat": 42.437359369335574,
+        "lng": -76.4987560901474
+    },
+    "625 University Avenue": {
+        "name": "625 University Avenue",
+        "lat": 42.448994906875086,
+        "lng": -76.49061390493448
+    },
+    "University Avenue": {
+        "name": "University Avenue",
+        "lat": 42.44962998779274,
+        "lng": -76.4880581120026
+    },
+    "Trillium Bus Shelter": {
+        "name": "Trillium Bus Shelter",
+        "lat": 42.44762878189265,
+        "lng": -76.47943273347177
+    },
+    "Williams Street": {
+        "name": "Williams Street",
+        "lat": 42.44246423685205,
+        "lng": -76.4887584604504
+    },
+    "James Lane": {
+        "name": "James Lane",
+        "lat": 42.43980459063678,
+        "lng": -76.47266786045041
+    },
+    "HEB Parking Garage Bike Rack": {
+        "name": "HEB Parking Garage Bike Rack",
+        "lat": 42.45069882249658,
+        "lng": -76.47821416254187
+    },
+    "Hoy Road": {
+        "name": "Hoy Road",
+        "lat": 42.443229017496236,
+        "lng": -76.47911512976619
+    },
+    "Warren Road": {
+        "name": "Warren Road",
+        "lat": 42.4587430024105,
+        "lng": -76.46761268928394
+    },
+    "200 Miller St": {
+        "name": "200 Miller Street",
+        "lat": 42.44028493738036,
+        "lng": -76.47670044510838
+    },
+    "1 Forest Park Lane": {
+        "name": "1 Forest Park Lane",
+        "lat": 42.446007832687705,
+        "lng": -76.48853026495354
+    },
+    "Stewart Avenue Bridge": {
+        "name": "Stewart Avenue Bridge",
+        "lat": 42.45243297537297,
+        "lng": -76.48976640577882
+    },
+    "Liberty Street, Owego": {
+        "name": "Liberty Street, Owego",
+        "lat": 42.109936827840016,
+        "lng": -76.26576295410166
+    },
+    "Feeney Way": {
+        "name": "Feeney Way",
+        "lat": 42.44859294840916,
+        "lng": -76.48278533123727
+    },
+    "College Avenue": {
+        "name": "College Avenue",
+        "lat": 42.44184405493698,
+        "lng": -76.48527414442886
+    },
+    "Campus Road": {
+        "name": "Campus Road",
+        "lat": 42.445385467626934,
+        "lng": -76.47540432127803
+    },
+    "TCAT Bus College Avenue & Campus Road": {
+        "name": "TCAT Bus College Avenue & Campus Road",
+        "lat": 42.445256194234894,
+        "lng": -76.48484692219688
+    },
+    "Central Avenue": {
+        "name": "Central Avenue",
+        "lat": 42.4497215638886,
+        "lng": -76.4858239
     },
     "Toni Morrison Hall": {
         "name": "Toni Morrison Hall",
@@ -282,6 +432,11 @@
         "name": "Belkin Squash Courts",
         "lat": 42.435,
         "lng": -76.4656
+    },
+    "100 Ridgewood Road": {
+        "name": "100 Ridgewood Road",
+        "lat": 42.4559,
+        "lng": -76.4899
     },
     "Beta Theta Pi": {
         "name": "Beta Theta Pi",
@@ -1062,6 +1217,11 @@
         "name": "Jessup Field",
         "lat": 42.4572,
         "lng": -76.4806
+    },
+    "Jessup Road": {
+        "name": "Jessup Road",
+        "lat": 42.45679547153408,
+        "lng": -76.4781340783771
     },
     "Johnson Museum of Art": {
         "name": "Johnson Museum of Art",
